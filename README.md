@@ -31,6 +31,7 @@
   <h3>EMULATOR</h3>
 - Android Studio  
 
+<h3>Some views of app</h3>
 
 <img src="ttps://i.postimg.cc/xcFYT9t5/firsview.png"></img>
 <img src="https://i.postimg.cc/HjzdRwMf/secondview.png"></img>
@@ -39,5 +40,10 @@
 <img src="https://i.postimg.cc/VdNm8JB5/5view.png"></img>
 <img src="https://i.postimg.cc/nXjxXNWJ/6view.png"></img>
 <img src="https://i.postimg.cc/SjkmgTn6/8view.png"></img>
+
+
+<h3>Test of frontend</h3>
+
+<img src="https://i.postimg.cc/7ZbQz16b/100-tested.png"></img>
 
 
