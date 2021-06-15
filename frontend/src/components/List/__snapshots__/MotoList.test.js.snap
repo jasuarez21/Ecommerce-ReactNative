@@ -1,0 +1,371 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When invoked a List component Should render a list of motos with type selected 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <RCTScrollView>
+    <View>
+      <Image
+        source={
+          Object {
+            "uri": "https://i.postimg.cc/FF2Y5GJd/logo-small.png",
+          }
+        }
+        style={
+          Object {
+            "height": 42,
+            "marginBottom": 15,
+            "marginLeft": 10,
+            "marginTop": 15,
+            "width": 300,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "borderBottomColor": "#FFB800",
+            "borderBottomWidth": 1,
+            "color": "white",
+            "fontSize": 18,
+            "marginBottom": 15,
+            "marginLeft": 20,
+            "padding": 4,
+            "width": 370,
+          }
+        }
+      >
+        SCOOTER
+      </Text>
+      <View
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "uri": "img.com",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 25,
+                "height": 100,
+                "marginBottom": 50,
+                "width": 180,
+              }
+            }
+            testID="detailMoto"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 18,
+              }
+            }
+          >
+            Marca: 
+            Aprilia
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 18,
+              }
+            }
+          >
+            Modelo: 
+            SR
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 18,
+              }
+            }
+          >
+            Cilindrada: 
+            50
+          </Text>
+          <View
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#FFB800",
+                  "fontSize": 20,
+                }
+              }
+            >
+              550
+              €
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "red",
+                  "fontSize": 20,
+                  "textDecorationLine": "line-through",
+                }
+              }
+            >
+              300
+              €
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;
+
+exports[`When invoked a List component Should render a list of motos with type selected 2`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <RCTScrollView>
+    <View>
+      <Image
+        source={
+          Object {
+            "uri": "https://i.postimg.cc/FF2Y5GJd/logo-small.png",
+          }
+        }
+        style={
+          Object {
+            "height": 42,
+            "marginBottom": 15,
+            "marginLeft": 10,
+            "marginTop": 15,
+            "width": 300,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "borderBottomColor": "#FFB800",
+            "borderBottomWidth": 1,
+            "color": "white",
+            "fontSize": 18,
+            "marginBottom": 15,
+            "marginLeft": 20,
+            "padding": 4,
+            "width": 370,
+          }
+        }
+      >
+        SR
+      </Text>
+      <View
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "justifyContent": "space-around",
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "uri": "img.com",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 25,
+                "height": 100,
+                "marginBottom": 50,
+                "width": 180,
+              }
+            }
+            testID="detailMoto"
+          />
+        </View>
+        <View
+          style={
+            Object {
+              "display": "flex",
+              "flexDirection": "column",
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 18,
+              }
+            }
+          >
+            Marca: 
+            Aprilia
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 18,
+              }
+            }
+          >
+            Modelo: 
+            SR
+          </Text>
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 18,
+              }
+            }
+          >
+            Cilindrada: 
+            50
+          </Text>
+          <View
+            style={
+              Object {
+                "display": "flex",
+                "flexDirection": "row",
+                "justifyContent": "space-around",
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "color": "#FFB800",
+                  "fontSize": 20,
+                }
+              }
+            >
+              550
+              €
+            </Text>
+            <Text
+              style={
+                Object {
+                  "color": "red",
+                  "fontSize": 20,
+                  "textDecorationLine": "line-through",
+                }
+              }
+            >
+              300
+              €
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;
+
+exports[`When invoked a List component Should render a list of motos with type selected 3`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <RCTScrollView>
+    <View>
+      <Image
+        source={
+          Object {
+            "uri": "https://i.postimg.cc/FF2Y5GJd/logo-small.png",
+          }
+        }
+        style={
+          Object {
+            "height": 42,
+            "marginBottom": 15,
+            "marginLeft": 10,
+            "marginTop": 15,
+            "width": 300,
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "borderBottomColor": "#FFB800",
+            "borderBottomWidth": 1,
+            "color": "white",
+            "fontSize": 18,
+            "marginBottom": 15,
+            "marginLeft": 20,
+            "padding": 4,
+            "width": 370,
+          }
+        }
+      >
+        50
+      </Text>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;

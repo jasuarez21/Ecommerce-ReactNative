@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When invoked a Sugestions component Should render the sugestion component with inputs 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <Text
+    style={
+      Object {
+        "borderBottomColor": "#FFB800",
+        "borderBottomWidth": 1,
+        "borderRadius": 5,
+        "color": "white",
+        "fontSize": 18,
+        "marginBottom": 10,
+        "marginLeft": 20,
+        "marginTop": 20,
+        "padding": 4,
+      }
+    }
+  >
+    RECOMENDACIONES
+  </Text>
+  <RCTScrollView
+    horizontal={true}
+  >
+    <View>
+      <View
+        style={
+          Object {
+            "display": "flex",
+            "flexDirection": "row",
+            "height": 110,
+            "width": 870,
+          }
+        }
+      >
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://cdn.martimotos.com/Martimotos/modules/themeconfigurator/img/5fb2194048bfb04da93ba813a31c913010c1f3b6_minibanneroutletes.jpg?scale.option=fill&w=400&h=0",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 5,
+                "height": 100,
+                "marginLeft": 10,
+                "marginTop": 5,
+                "width": 200,
+              }
+            }
+          />
+        </View>
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://www.motovery.com/new/wp-content/uploads/2019/04/cascos-moto-scorpion-elche-alicante.jpg",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 5,
+                "height": 100,
+                "marginLeft": 10,
+                "marginTop": 5,
+                "width": 200,
+              }
+            }
+          />
+        </View>
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://motorline.hu/modules/themeconfigurator/img/9cbb22364e86fea4e977f3de6915ec8a2c67ebba_vespa-ajandek-otletek-min.jpg",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 5,
+                "height": 100,
+                "marginLeft": 10,
+                "marginTop": 5,
+                "width": 200,
+              }
+            }
+          />
+        </View>
+        <View
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+        >
+          <Image
+            source={
+              Object {
+                "uri": "https://www.soymotero.net/sites/default/files/2018-10/Cartel%20Aprilia.jpg",
+              }
+            }
+            style={
+              Object {
+                "borderRadius": 5,
+                "height": 100,
+                "marginLeft": 10,
+                "marginTop": 5,
+                "width": 200,
+              }
+            }
+          />
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;

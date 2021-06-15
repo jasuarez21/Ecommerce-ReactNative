@@ -1,0 +1,1758 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When invoked a SignIn component Should render the signin component with inputs 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    Object {
+      "height": 800,
+      "width": 450,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://i.postimg.cc/htkHJcp0/fondo-INICIAL.jpg",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        Object {
+          "height": 800,
+          "width": 450,
+        },
+        undefined,
+      ]
+    }
+  />
+  <Image
+    source={
+      Object {
+        "uri": "https://i.postimg.cc/FF2Y5GJd/logo-small.png",
+      }
+    }
+    style={
+      Object {
+        "height": 42,
+        "marginLeft": 50,
+        "marginTop": 80,
+        "width": 300,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "marginLeft": 20,
+        "marginTop": 50,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 16,
+          "marginBottom": 20,
+          "marginLeft": 30,
+        }
+      }
+    >
+      Selecciona tu avatar
+    </Text>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "marginRight": 50,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 37.5,
+            "height": 75,
+            "marginRight": 10,
+            "opacity": 1,
+            "width": 75,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": 37.5,
+              "flex": 1,
+              "overflow": "hidden",
+              "position": "relative",
+            }
+          }
+        >
+          <Image
+            borderRadius={37.5}
+            onLoad={[Function]}
+            source={
+              Object {
+                "uri": "https://image.freepik.com/vector-gratis/dar-espalda-biker-motorcycle-rider-cartoon_261104-17.jpg",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "flex": 1,
+                "height": undefined,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image"
+            theme={
+              Object {
+                "colors": Object {
+                  "black": "#242424",
+                  "disabled": "hsl(208, 8%, 90%)",
+                  "divider": "#bcbbc1",
+                  "error": "#ff190c",
+                  "grey0": "#393e42",
+                  "grey1": "#43484d",
+                  "grey2": "#5e6977",
+                  "grey3": "#86939e",
+                  "grey4": "#bdc6cf",
+                  "grey5": "#e1e8ee",
+                  "greyOutline": "#bbb",
+                  "platform": Object {
+                    "android": Object {
+                      "error": "#f44336",
+                      "grey": "rgba(0, 0, 0, 0.54)",
+                      "primary": "#2196f3",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#9C27B0",
+                      "success": "#4caf50",
+                      "warning": "#ffeb3b",
+                    },
+                    "default": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "ios": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "web": Object {
+                      "error": "#ff190c",
+                      "grey": "#393e42",
+                      "primary": "#2089dc",
+                      "searchBg": "#303337",
+                      "secondary": "#ca71eb",
+                      "success": "#52c41a",
+                      "warning": "#faad14",
+                    },
+                  },
+                  "primary": "#2089dc",
+                  "searchBg": "#303337",
+                  "secondary": "#ca71eb",
+                  "success": "#52c41a",
+                  "warning": "#faad14",
+                  "white": "#ffffff",
+                },
+              }
+            }
+            transition={true}
+            transitionDuration={360}
+          />
+          <View
+            accessibilityElementsHidden={true}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "opacity": 1,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#bdbdbd",
+                  "flex": 1,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "width": undefined,
+                }
+              }
+              testID="RNE__Image__placeholder"
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "transparent",
+                    "color": "#ffffff",
+                    "fontSize": 37.5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                avatar
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "height": undefined,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image__children__container"
+          />
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 37.5,
+            "height": 75,
+            "marginRight": 10,
+            "opacity": 1,
+            "width": 75,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": 37.5,
+              "flex": 1,
+              "overflow": "hidden",
+              "position": "relative",
+            }
+          }
+        >
+          <Image
+            borderRadius={37.5}
+            onLoad={[Function]}
+            source={
+              Object {
+                "uri": "https://image.freepik.com/vector-gratis/vector-dibujos-animados-wheelies-motorcycle-rider_261104-6.jpg",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "flex": 1,
+                "height": undefined,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image"
+            theme={
+              Object {
+                "colors": Object {
+                  "black": "#242424",
+                  "disabled": "hsl(208, 8%, 90%)",
+                  "divider": "#bcbbc1",
+                  "error": "#ff190c",
+                  "grey0": "#393e42",
+                  "grey1": "#43484d",
+                  "grey2": "#5e6977",
+                  "grey3": "#86939e",
+                  "grey4": "#bdc6cf",
+                  "grey5": "#e1e8ee",
+                  "greyOutline": "#bbb",
+                  "platform": Object {
+                    "android": Object {
+                      "error": "#f44336",
+                      "grey": "rgba(0, 0, 0, 0.54)",
+                      "primary": "#2196f3",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#9C27B0",
+                      "success": "#4caf50",
+                      "warning": "#ffeb3b",
+                    },
+                    "default": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "ios": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "web": Object {
+                      "error": "#ff190c",
+                      "grey": "#393e42",
+                      "primary": "#2089dc",
+                      "searchBg": "#303337",
+                      "secondary": "#ca71eb",
+                      "success": "#52c41a",
+                      "warning": "#faad14",
+                    },
+                  },
+                  "primary": "#2089dc",
+                  "searchBg": "#303337",
+                  "secondary": "#ca71eb",
+                  "success": "#52c41a",
+                  "warning": "#faad14",
+                  "white": "#ffffff",
+                },
+              }
+            }
+            transition={true}
+            transitionDuration={360}
+          />
+          <View
+            accessibilityElementsHidden={true}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "opacity": 1,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#bdbdbd",
+                  "flex": 1,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "width": undefined,
+                }
+              }
+              testID="RNE__Image__placeholder"
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "transparent",
+                    "color": "#ffffff",
+                    "fontSize": 37.5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                avatar1
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "height": undefined,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image__children__container"
+          />
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 37.5,
+            "height": 75,
+            "marginRight": 10,
+            "opacity": 1,
+            "width": 75,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": 37.5,
+              "flex": 1,
+              "overflow": "hidden",
+              "position": "relative",
+            }
+          }
+        >
+          <Image
+            borderRadius={37.5}
+            onLoad={[Function]}
+            source={
+              Object {
+                "uri": "https://www.nicepng.com/png/detail/365-3650531_sports-bike-02-sports-bike-03-motorcycle-cartoon.png",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "flex": 1,
+                "height": undefined,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image"
+            theme={
+              Object {
+                "colors": Object {
+                  "black": "#242424",
+                  "disabled": "hsl(208, 8%, 90%)",
+                  "divider": "#bcbbc1",
+                  "error": "#ff190c",
+                  "grey0": "#393e42",
+                  "grey1": "#43484d",
+                  "grey2": "#5e6977",
+                  "grey3": "#86939e",
+                  "grey4": "#bdc6cf",
+                  "grey5": "#e1e8ee",
+                  "greyOutline": "#bbb",
+                  "platform": Object {
+                    "android": Object {
+                      "error": "#f44336",
+                      "grey": "rgba(0, 0, 0, 0.54)",
+                      "primary": "#2196f3",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#9C27B0",
+                      "success": "#4caf50",
+                      "warning": "#ffeb3b",
+                    },
+                    "default": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "ios": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "web": Object {
+                      "error": "#ff190c",
+                      "grey": "#393e42",
+                      "primary": "#2089dc",
+                      "searchBg": "#303337",
+                      "secondary": "#ca71eb",
+                      "success": "#52c41a",
+                      "warning": "#faad14",
+                    },
+                  },
+                  "primary": "#2089dc",
+                  "searchBg": "#303337",
+                  "secondary": "#ca71eb",
+                  "success": "#52c41a",
+                  "warning": "#faad14",
+                  "white": "#ffffff",
+                },
+              }
+            }
+            transition={true}
+            transitionDuration={360}
+          />
+          <View
+            accessibilityElementsHidden={true}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "opacity": 1,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#bdbdbd",
+                  "flex": 1,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "width": undefined,
+                }
+              }
+              testID="RNE__Image__placeholder"
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "transparent",
+                    "color": "#ffffff",
+                    "fontSize": 37.5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                avatar2
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "height": undefined,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image__children__container"
+          />
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 37.5,
+            "height": 75,
+            "marginRight": 10,
+            "opacity": 1,
+            "width": 75,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": 37.5,
+              "flex": 1,
+              "overflow": "hidden",
+              "position": "relative",
+            }
+          }
+        >
+          <Image
+            borderRadius={37.5}
+            onLoad={[Function]}
+            source={
+              Object {
+                "uri": "https://image.shutterstock.com/image-vector/wheelies-biker-motorcycle-rider-260nw-369246080.jpg",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "flex": 1,
+                "height": undefined,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image"
+            theme={
+              Object {
+                "colors": Object {
+                  "black": "#242424",
+                  "disabled": "hsl(208, 8%, 90%)",
+                  "divider": "#bcbbc1",
+                  "error": "#ff190c",
+                  "grey0": "#393e42",
+                  "grey1": "#43484d",
+                  "grey2": "#5e6977",
+                  "grey3": "#86939e",
+                  "grey4": "#bdc6cf",
+                  "grey5": "#e1e8ee",
+                  "greyOutline": "#bbb",
+                  "platform": Object {
+                    "android": Object {
+                      "error": "#f44336",
+                      "grey": "rgba(0, 0, 0, 0.54)",
+                      "primary": "#2196f3",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#9C27B0",
+                      "success": "#4caf50",
+                      "warning": "#ffeb3b",
+                    },
+                    "default": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "ios": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "web": Object {
+                      "error": "#ff190c",
+                      "grey": "#393e42",
+                      "primary": "#2089dc",
+                      "searchBg": "#303337",
+                      "secondary": "#ca71eb",
+                      "success": "#52c41a",
+                      "warning": "#faad14",
+                    },
+                  },
+                  "primary": "#2089dc",
+                  "searchBg": "#303337",
+                  "secondary": "#ca71eb",
+                  "success": "#52c41a",
+                  "warning": "#faad14",
+                  "white": "#ffffff",
+                },
+              }
+            }
+            transition={true}
+            transitionDuration={360}
+          />
+          <View
+            accessibilityElementsHidden={true}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "opacity": 1,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#bdbdbd",
+                  "flex": 1,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "width": undefined,
+                }
+              }
+              testID="RNE__Image__placeholder"
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "transparent",
+                    "color": "#ffffff",
+                    "fontSize": 37.5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                avatar3
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "height": undefined,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image__children__container"
+          />
+        </View>
+      </View>
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      defaultValue=""
+      onChangeText={[Function]}
+      onEndEditing={[Function]}
+      placeholder="email"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "white",
+          "borderRadius": 5,
+          "marginBottom": 10,
+          "marginRight": 70,
+          "marginTop": 10,
+          "paddingLeft": 20,
+          "width": 300,
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      defaultValue=""
+      onChangeText={[Function]}
+      onEndEditing={[Function]}
+      placeholder="password"
+      rejectResponderTermination={true}
+      secureTextEntry={true}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "white",
+          "borderRadius": 5,
+          "marginBottom": 10,
+          "marginRight": 70,
+          "marginTop": 10,
+          "paddingLeft": 20,
+          "width": 300,
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      defaultValue=""
+      onChangeText={[Function]}
+      onEndEditing={[Function]}
+      placeholder="alias"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "white",
+          "borderRadius": 5,
+          "marginBottom": 10,
+          "marginRight": 70,
+          "marginTop": 10,
+          "paddingLeft": 20,
+          "width": 300,
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://i.postimg.cc/6qnQSnBG/icons8-ok-26-1.png",
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "center",
+          "height": 35,
+          "marginRight": 50,
+          "marginTop": 15,
+          "width": 35,
+        }
+      }
+      testID="signup"
+    />
+  </View>
+</View>
+`;
+
+exports[`When invoked a SignIn component Should render the signin component with inputs 2`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    Object {
+      "height": 800,
+      "width": 450,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "https://i.postimg.cc/htkHJcp0/fondo-INICIAL.jpg",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        Object {
+          "height": 800,
+          "width": 450,
+        },
+        undefined,
+      ]
+    }
+  />
+  <Image
+    source={
+      Object {
+        "uri": "https://i.postimg.cc/FF2Y5GJd/logo-small.png",
+      }
+    }
+    style={
+      Object {
+        "height": 42,
+        "marginLeft": 50,
+        "marginTop": 80,
+        "width": 300,
+      }
+    }
+  />
+  <View
+    style={
+      Object {
+        "marginLeft": 20,
+        "marginTop": 50,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 16,
+          "marginBottom": 20,
+          "marginLeft": 30,
+        }
+      }
+    >
+      Selecciona tu avatar
+    </Text>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "display": "flex",
+          "flexDirection": "row",
+          "marginRight": 50,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 37.5,
+            "height": 75,
+            "marginRight": 10,
+            "opacity": 1,
+            "width": 75,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": 37.5,
+              "flex": 1,
+              "overflow": "hidden",
+              "position": "relative",
+            }
+          }
+        >
+          <Image
+            borderRadius={37.5}
+            onLoad={[Function]}
+            source={
+              Object {
+                "uri": "https://image.freepik.com/vector-gratis/dar-espalda-biker-motorcycle-rider-cartoon_261104-17.jpg",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "flex": 1,
+                "height": undefined,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image"
+            theme={
+              Object {
+                "colors": Object {
+                  "black": "#242424",
+                  "disabled": "hsl(208, 8%, 90%)",
+                  "divider": "#bcbbc1",
+                  "error": "#ff190c",
+                  "grey0": "#393e42",
+                  "grey1": "#43484d",
+                  "grey2": "#5e6977",
+                  "grey3": "#86939e",
+                  "grey4": "#bdc6cf",
+                  "grey5": "#e1e8ee",
+                  "greyOutline": "#bbb",
+                  "platform": Object {
+                    "android": Object {
+                      "error": "#f44336",
+                      "grey": "rgba(0, 0, 0, 0.54)",
+                      "primary": "#2196f3",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#9C27B0",
+                      "success": "#4caf50",
+                      "warning": "#ffeb3b",
+                    },
+                    "default": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "ios": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "web": Object {
+                      "error": "#ff190c",
+                      "grey": "#393e42",
+                      "primary": "#2089dc",
+                      "searchBg": "#303337",
+                      "secondary": "#ca71eb",
+                      "success": "#52c41a",
+                      "warning": "#faad14",
+                    },
+                  },
+                  "primary": "#2089dc",
+                  "searchBg": "#303337",
+                  "secondary": "#ca71eb",
+                  "success": "#52c41a",
+                  "warning": "#faad14",
+                  "white": "#ffffff",
+                },
+              }
+            }
+            transition={true}
+            transitionDuration={360}
+          />
+          <View
+            accessibilityElementsHidden={true}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "opacity": 1,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#bdbdbd",
+                  "flex": 1,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "width": undefined,
+                }
+              }
+              testID="RNE__Image__placeholder"
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "transparent",
+                    "color": "#ffffff",
+                    "fontSize": 37.5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                avatar
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "height": undefined,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image__children__container"
+          />
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 37.5,
+            "height": 75,
+            "marginRight": 10,
+            "opacity": 1,
+            "width": 75,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": 37.5,
+              "flex": 1,
+              "overflow": "hidden",
+              "position": "relative",
+            }
+          }
+        >
+          <Image
+            borderRadius={37.5}
+            onLoad={[Function]}
+            source={
+              Object {
+                "uri": "https://image.freepik.com/vector-gratis/vector-dibujos-animados-wheelies-motorcycle-rider_261104-6.jpg",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "flex": 1,
+                "height": undefined,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image"
+            theme={
+              Object {
+                "colors": Object {
+                  "black": "#242424",
+                  "disabled": "hsl(208, 8%, 90%)",
+                  "divider": "#bcbbc1",
+                  "error": "#ff190c",
+                  "grey0": "#393e42",
+                  "grey1": "#43484d",
+                  "grey2": "#5e6977",
+                  "grey3": "#86939e",
+                  "grey4": "#bdc6cf",
+                  "grey5": "#e1e8ee",
+                  "greyOutline": "#bbb",
+                  "platform": Object {
+                    "android": Object {
+                      "error": "#f44336",
+                      "grey": "rgba(0, 0, 0, 0.54)",
+                      "primary": "#2196f3",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#9C27B0",
+                      "success": "#4caf50",
+                      "warning": "#ffeb3b",
+                    },
+                    "default": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "ios": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "web": Object {
+                      "error": "#ff190c",
+                      "grey": "#393e42",
+                      "primary": "#2089dc",
+                      "searchBg": "#303337",
+                      "secondary": "#ca71eb",
+                      "success": "#52c41a",
+                      "warning": "#faad14",
+                    },
+                  },
+                  "primary": "#2089dc",
+                  "searchBg": "#303337",
+                  "secondary": "#ca71eb",
+                  "success": "#52c41a",
+                  "warning": "#faad14",
+                  "white": "#ffffff",
+                },
+              }
+            }
+            transition={true}
+            transitionDuration={360}
+          />
+          <View
+            accessibilityElementsHidden={true}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "opacity": 1,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#bdbdbd",
+                  "flex": 1,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "width": undefined,
+                }
+              }
+              testID="RNE__Image__placeholder"
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "transparent",
+                    "color": "#ffffff",
+                    "fontSize": 37.5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                avatar1
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "height": undefined,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image__children__container"
+          />
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 37.5,
+            "height": 75,
+            "marginRight": 10,
+            "opacity": 1,
+            "width": 75,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": 37.5,
+              "flex": 1,
+              "overflow": "hidden",
+              "position": "relative",
+            }
+          }
+        >
+          <Image
+            borderRadius={37.5}
+            onLoad={[Function]}
+            source={
+              Object {
+                "uri": "https://www.nicepng.com/png/detail/365-3650531_sports-bike-02-sports-bike-03-motorcycle-cartoon.png",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "flex": 1,
+                "height": undefined,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image"
+            theme={
+              Object {
+                "colors": Object {
+                  "black": "#242424",
+                  "disabled": "hsl(208, 8%, 90%)",
+                  "divider": "#bcbbc1",
+                  "error": "#ff190c",
+                  "grey0": "#393e42",
+                  "grey1": "#43484d",
+                  "grey2": "#5e6977",
+                  "grey3": "#86939e",
+                  "grey4": "#bdc6cf",
+                  "grey5": "#e1e8ee",
+                  "greyOutline": "#bbb",
+                  "platform": Object {
+                    "android": Object {
+                      "error": "#f44336",
+                      "grey": "rgba(0, 0, 0, 0.54)",
+                      "primary": "#2196f3",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#9C27B0",
+                      "success": "#4caf50",
+                      "warning": "#ffeb3b",
+                    },
+                    "default": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "ios": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "web": Object {
+                      "error": "#ff190c",
+                      "grey": "#393e42",
+                      "primary": "#2089dc",
+                      "searchBg": "#303337",
+                      "secondary": "#ca71eb",
+                      "success": "#52c41a",
+                      "warning": "#faad14",
+                    },
+                  },
+                  "primary": "#2089dc",
+                  "searchBg": "#303337",
+                  "secondary": "#ca71eb",
+                  "success": "#52c41a",
+                  "warning": "#faad14",
+                  "white": "#ffffff",
+                },
+              }
+            }
+            transition={true}
+            transitionDuration={360}
+          />
+          <View
+            accessibilityElementsHidden={true}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "opacity": 1,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#bdbdbd",
+                  "flex": 1,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "width": undefined,
+                }
+              }
+              testID="RNE__Image__placeholder"
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "transparent",
+                    "color": "#ffffff",
+                    "fontSize": 37.5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                avatar2
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "height": undefined,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image__children__container"
+          />
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "backgroundColor": "transparent",
+            "borderRadius": 37.5,
+            "height": 75,
+            "marginRight": 10,
+            "opacity": 1,
+            "width": 75,
+          }
+        }
+      >
+        <View
+          accessibilityIgnoresInvertColors={true}
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": 37.5,
+              "flex": 1,
+              "overflow": "hidden",
+              "position": "relative",
+            }
+          }
+        >
+          <Image
+            borderRadius={37.5}
+            onLoad={[Function]}
+            source={
+              Object {
+                "uri": "https://image.shutterstock.com/image-vector/wheelies-biker-motorcycle-rider-260nw-369246080.jpg",
+              }
+            }
+            style={
+              Object {
+                "bottom": 0,
+                "flex": 1,
+                "height": undefined,
+                "left": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image"
+            theme={
+              Object {
+                "colors": Object {
+                  "black": "#242424",
+                  "disabled": "hsl(208, 8%, 90%)",
+                  "divider": "#bcbbc1",
+                  "error": "#ff190c",
+                  "grey0": "#393e42",
+                  "grey1": "#43484d",
+                  "grey2": "#5e6977",
+                  "grey3": "#86939e",
+                  "grey4": "#bdc6cf",
+                  "grey5": "#e1e8ee",
+                  "greyOutline": "#bbb",
+                  "platform": Object {
+                    "android": Object {
+                      "error": "#f44336",
+                      "grey": "rgba(0, 0, 0, 0.54)",
+                      "primary": "#2196f3",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#9C27B0",
+                      "success": "#4caf50",
+                      "warning": "#ffeb3b",
+                    },
+                    "default": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "ios": Object {
+                      "error": "#ff3b30",
+                      "grey": "#7d7d7d",
+                      "primary": "#007aff",
+                      "searchBg": "#dcdce1",
+                      "secondary": "#5856d6",
+                      "success": "#4cd964",
+                      "warning": "#ffcc00",
+                    },
+                    "web": Object {
+                      "error": "#ff190c",
+                      "grey": "#393e42",
+                      "primary": "#2089dc",
+                      "searchBg": "#303337",
+                      "secondary": "#ca71eb",
+                      "success": "#52c41a",
+                      "warning": "#faad14",
+                    },
+                  },
+                  "primary": "#2089dc",
+                  "searchBg": "#303337",
+                  "secondary": "#ca71eb",
+                  "success": "#52c41a",
+                  "warning": "#faad14",
+                  "white": "#ffffff",
+                },
+              }
+            }
+            transition={true}
+            transitionDuration={360}
+          />
+          <View
+            accessibilityElementsHidden={true}
+            importantForAccessibility="no-hide-descendants"
+            pointerEvents="none"
+            style={
+              Object {
+                "bottom": 0,
+                "left": 0,
+                "opacity": 1,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "backgroundColor": "#bdbdbd",
+                  "flex": 1,
+                  "height": undefined,
+                  "justifyContent": "center",
+                  "width": undefined,
+                }
+              }
+              testID="RNE__Image__placeholder"
+            >
+              <Text
+                style={
+                  Object {
+                    "backgroundColor": "transparent",
+                    "color": "#ffffff",
+                    "fontSize": 37.5,
+                    "textAlign": "center",
+                  }
+                }
+              >
+                avatar3
+              </Text>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flex": 1,
+                "height": undefined,
+                "width": undefined,
+              }
+            }
+            testID="RNE__Image__children__container"
+          />
+        </View>
+      </View>
+    </View>
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      defaultValue=""
+      onChangeText={[Function]}
+      onEndEditing={[Function]}
+      placeholder="email"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "white",
+          "borderRadius": 5,
+          "marginBottom": 10,
+          "marginRight": 70,
+          "marginTop": 10,
+          "paddingLeft": 20,
+          "width": 300,
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      defaultValue=""
+      onChangeText={[Function]}
+      onEndEditing={[Function]}
+      placeholder="password"
+      rejectResponderTermination={true}
+      secureTextEntry={true}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "white",
+          "borderRadius": 5,
+          "marginBottom": 10,
+          "marginRight": 70,
+          "marginTop": 10,
+          "paddingLeft": 20,
+          "width": 300,
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+    <TextInput
+      allowFontScaling={true}
+      autoCapitalize="none"
+      defaultValue=""
+      onChangeText={[Function]}
+      onEndEditing={[Function]}
+      placeholder="alias"
+      rejectResponderTermination={true}
+      style={
+        Object {
+          "alignSelf": "center",
+          "backgroundColor": "white",
+          "borderRadius": 5,
+          "marginBottom": 10,
+          "marginRight": 70,
+          "marginTop": 10,
+          "paddingLeft": 20,
+          "width": 300,
+        }
+      }
+      underlineColorAndroid="transparent"
+    />
+  </View>
+  <Text
+    style={
+      Object {
+        "alignSelf": "center",
+        "color": "white",
+        "marginBottom": 30,
+        "marginRight": 90,
+        "marginTop": 50,
+      }
+    }
+  >
+    Registrado correctamente!
+  </Text>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "alignContent": "center",
+        "backgroundColor": "#FFB800",
+        "borderRadius": 5,
+        "display": "flex",
+        "height": 35,
+        "marginLeft": 185,
+        "width": 40,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://i.postimg.cc/3R70g3mT/icons8-enter-48.png",
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "center",
+          "height": 30,
+          "marginTop": 1,
+          "width": 30,
+        }
+      }
+      testID="buttonDefinedUser"
+    />
+  </View>
+</View>
+`;

@@ -1,0 +1,304 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When invoked a Lobby component Should render the lobby of page 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "black",
+    }
+  }
+>
+  <RCTSafeAreaView
+    emulateUnlessSupported={true}
+  >
+    <RCTScrollView>
+      <View>
+        <Image
+          source={
+            Object {
+              "uri": "https://i.postimg.cc/FF2Y5GJd/logo-small.png",
+            }
+          }
+          style={
+            Object {
+              "height": 42,
+              "marginLeft": 10,
+              "marginTop": 15,
+              "width": 300,
+            }
+          }
+        />
+        <Text
+          style={
+            Object {
+              "color": "white",
+              "fontSize": 16,
+              "marginLeft": 160,
+              "marginTop": 10,
+            }
+          }
+        >
+          Bienvenid@! Registrate, porfavor!
+        </Text>
+        <View
+          style={
+            Object {
+              "alignSelf": "center",
+              "display": "flex",
+              "flexDirection": "row",
+              "marginTop": 15,
+            }
+          }
+        >
+          <TextInput
+            allowFontScaling={true}
+            autoCapitalize="none"
+            defaultValue=""
+            onChangeText={[Function]}
+            placeholder="Que buscas?"
+            rejectResponderTermination={true}
+            style={
+              Object {
+                "backgroundColor": "white",
+                "borderRadius": 25,
+                "height": 35,
+                "marginLeft": 20,
+                "marginTop": 10,
+                "width": 250,
+              }
+            }
+            testID="searchInput"
+            underlineColorAndroid="transparent"
+          />
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://i.postimg.cc/dV8GDfQL/icons8-search-50.png",
+                }
+              }
+              style={
+                Object {
+                  "height": 30,
+                  "marginLeft": 5,
+                  "marginTop": 15,
+                  "width": 30,
+                }
+              }
+              testID="logout"
+            />
+          </View>
+        </View>
+        <Text
+          style={
+            Object {
+              "borderBottomColor": "#FFB800",
+              "borderBottomWidth": 1,
+              "color": "white",
+              "fontSize": 18,
+              "marginLeft": 20,
+              "marginTop": 15,
+              "padding": 4,
+              "width": 370,
+            }
+          }
+        >
+          CATEGORIAS
+        </Text>
+        <View
+          style={
+            Object {
+              "backgroundColor": "black",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "wrap",
+              "height": 600,
+              "justifyContent": "space-around",
+              "marginTop": 10,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://i.postimg.cc/HntMGvdq/pcr2.jpg",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 25,
+                  "height": 110,
+                  "marginTop": 20,
+                  "width": 175,
+                }
+              }
+              testID="scooter"
+            />
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://www.retif.es/media/image/400x/cartel-ofertas-horizontal-86x20-cm-blanco-rojo_01.jpg",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 25,
+                  "height": 110,
+                  "marginTop": 20,
+                  "width": 175,
+                }
+              }
+              testID="offer"
+            />
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://i.postimg.cc/90c4BPZJ/cbr3.jpg",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 25,
+                  "height": 110,
+                  "marginTop": 20,
+                  "width": 175,
+                }
+              }
+              testID="racing"
+            />
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://i.postimg.cc/0yjw3C34/vespa4.jpg",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 25,
+                  "height": 110,
+                  "marginTop": 20,
+                  "width": 175,
+                }
+              }
+              testID="vespa"
+            />
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://i.postimg.cc/6pbd5Pnw/m109R3.jpg",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 25,
+                  "height": 110,
+                  "marginTop": 20,
+                  "width": 175,
+                }
+              }
+              testID="custom"
+            />
+          </View>
+          <View
+            accessible={true}
+            focusable={true}
+            onClick={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Image
+              source={
+                Object {
+                  "uri": "https://www.motocat.net/3656-thickbox/casco-integral-mt-imola-ii-solid-matt-black.jpg",
+                }
+              }
+              style={
+                Object {
+                  "borderRadius": 25,
+                  "height": 110,
+                  "marginTop": 20,
+                  "width": 175,
+                }
+              }
+              testID="casco"
+            />
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </RCTSafeAreaView>
+</View>
+`;

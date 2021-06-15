@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1623756671059" clover="3.2.0">
+  <project timestamp="1623756671059" name="All files">
+    <metrics statements="164" coveredstatements="163" conditionals="50" coveredconditionals="43" methods="84" coveredmethods="83" elements="298" coveredelements="289" complexity="0" loc="164" ncloc="164" packages="10" files="13" classes="13"/>
+    <package name="components.Cart">
+      <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+      <file name="Cart.tsx" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\components\Cart\Cart.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="9" type="stmt"/>
+        <line num="13" count="9" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Detail">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <file name="Detail.tsx" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\components\Detail\Detail.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.List">
+      <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="5" methods="6" coveredmethods="6"/>
+      <file name="MotosList.tsx" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\components\List\MotosList.tsx">
+        <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="5" methods="6" coveredmethods="6"/>
+        <line num="24" count="18" type="stmt"/>
+        <line num="25" count="6" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="30" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="31" count="6" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Lobby">
+      <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="13" coveredmethods="13"/>
+      <file name="Lobby.tsx" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\components\Lobby\Lobby.tsx">
+        <metrics statements="17" coveredstatements="17" conditionals="2" coveredconditionals="2" methods="13" coveredmethods="13"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="27" type="stmt"/>
+        <line num="14" count="14" type="stmt"/>
+        <line num="15" count="14" type="stmt"/>
+        <line num="16" count="14" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="119" count="1" type="stmt"/>
+        <line num="129" count="1" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="165" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Login">
+      <metrics statements="15" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="10" coveredmethods="9"/>
+      <file name="Login.tsx" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\components\Login\Login.tsx">
+        <metrics statements="15" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="10" coveredmethods="9"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="20" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="14" count="10" type="stmt"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="10" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="112" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.SignIn">
+      <metrics statements="25" coveredstatements="25" conditionals="13" coveredconditionals="9" methods="18" coveredmethods="18"/>
+      <file name="SignIn.tsx" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\components\SignIn\SignIn.tsx">
+        <metrics statements="25" coveredstatements="25" conditionals="13" coveredconditionals="9" methods="18" coveredmethods="18"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="39" type="stmt"/>
+        <line num="22" count="24" type="stmt"/>
+        <line num="23" count="24" type="stmt"/>
+        <line num="24" count="24" type="stmt"/>
+        <line num="25" count="24" type="stmt"/>
+        <line num="26" count="24" type="stmt"/>
+        <line num="27" count="24" type="stmt"/>
+        <line num="28" count="24" type="stmt"/>
+        <line num="29" count="24" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="33" count="24" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="119" count="1" type="stmt"/>
+        <line num="120" count="1" type="stmt"/>
+        <line num="131" count="1" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="162" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.Sugestions">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Sugestions.tsx" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\components\Sugestions\Sugestions.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux.actions">
+      <metrics statements="42" coveredstatements="42" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="17"/>
+      <file name="actionCreators.ts" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\redux\actions\actionCreators.ts">
+        <metrics statements="41" coveredstatements="41" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="17"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="62" count="2" type="stmt"/>
+        <line num="63" count="2" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+        <line num="98" count="2" type="stmt"/>
+        <line num="99" count="2" type="stmt"/>
+        <line num="100" count="2" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="115" count="2" type="stmt"/>
+        <line num="116" count="2" type="stmt"/>
+        <line num="121" count="2" type="stmt"/>
+        <line num="122" count="2" type="stmt"/>
+        <line num="123" count="2" type="stmt"/>
+        <line num="124" count="1" type="stmt"/>
+        <line num="128" count="1" type="stmt"/>
+        <line num="136" count="2" type="stmt"/>
+        <line num="137" count="2" type="stmt"/>
+        <line num="138" count="2" type="stmt"/>
+        <line num="143" count="1" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+      </file>
+      <file name="actionTypes.ts" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\redux\actions\actionTypes.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="redux.reducers">
+      <metrics statements="26" coveredstatements="26" conditionals="21" coveredconditionals="20" methods="5" coveredmethods="5"/>
+      <file name="cartReducer.ts" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\redux\reducers\cartReducer.ts">
+        <metrics statements="17" coveredstatements="17" conditionals="12" coveredconditionals="11" methods="3" coveredmethods="3"/>
+        <line num="6" count="8" type="cond" truecount="5" falsecount="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="29" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+      <file name="motosReducer.ts" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\redux\reducers\motosReducer.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="usersReducer.ts" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\redux\reducers\usersReducer.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="5" count="6" type="cond" truecount="5" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="validation.ts" path="D:\skylab\bootcamp\Josep_Final-Project-202104\proyecto final\frontend\src\utils\validation.ts">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

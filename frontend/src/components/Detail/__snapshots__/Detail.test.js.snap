@@ -1,0 +1,373 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When invoked a Detail component Should render a moto with detail 1`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    Object {
+      "height": 500,
+      "width": 450,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "img.com",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        Object {
+          "height": 500,
+          "width": 450,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "black",
+        "height": 65,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFB800",
+          "fontSize": 24,
+          "marginLeft": 20,
+          "marginTop": 20,
+        }
+      }
+    >
+      Aprilia
+       
+      SR
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#FFB800",
+        "fontSize": 24,
+        "marginLeft": 330,
+        "marginTop": 20,
+        "position": "absolute",
+      }
+    }
+  >
+    550
+    €
+  </Text>
+  <View
+    style={
+      Object {
+        "backgroundColor": "black",
+        "borderTopLeftRadius": 25,
+        "borderTopRightRadius": 25,
+        "height": 500,
+        "marginTop": 280,
+        "opacity": 0.8,
+        "padding": 10,
+        "width": 405,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      Moto comoda para la carretera
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      Marca: 
+      Aprilia
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      Modelo: 
+      SR
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      CC: 
+      50
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      Stock: 
+      <Text>
+        No hay stock
+      </Text>
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderRadius": 10,
+        "height": 30,
+        "marginLeft": 150,
+        "position": "absolute",
+        "textAlign": "center",
+        "width": 110,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://i.postimg.cc/GpkSCktY/icons8-buy-52.png",
+        }
+      }
+      style={
+        Object {
+          "height": 35,
+          "marginLeft": 50,
+          "marginTop": 15,
+          "width": 35,
+        }
+      }
+      testID="addButton"
+    />
+  </View>
+</View>
+`;
+
+exports[`When invoked a Detail component Should render a moto with detail 2`] = `
+<View
+  accessibilityIgnoresInvertColors={true}
+  style={
+    Object {
+      "height": 500,
+      "width": 450,
+    }
+  }
+>
+  <Image
+    source={
+      Object {
+        "uri": "img.com",
+      }
+    }
+    style={
+      Array [
+        Object {
+          "bottom": 0,
+          "left": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        },
+        Object {
+          "height": 500,
+          "width": 450,
+        },
+        undefined,
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "backgroundColor": "black",
+        "height": 65,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#FFB800",
+          "fontSize": 24,
+          "marginLeft": 20,
+          "marginTop": 20,
+        }
+      }
+    >
+      Aprilia
+       
+      SR
+    </Text>
+  </View>
+  <Text
+    style={
+      Object {
+        "color": "#FFB800",
+        "fontSize": 24,
+        "marginLeft": 330,
+        "marginTop": 20,
+        "position": "absolute",
+      }
+    }
+  >
+    550
+    €
+  </Text>
+  <View
+    style={
+      Object {
+        "backgroundColor": "black",
+        "borderTopLeftRadius": 25,
+        "borderTopRightRadius": 25,
+        "height": 500,
+        "marginTop": 280,
+        "opacity": 0.8,
+        "padding": 10,
+        "width": 405,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      Moto comoda para la carretera
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      Marca: 
+      Aprilia
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      Modelo: 
+      SR
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      CC: 
+      50
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontSize": 18,
+          "margin": 10,
+        }
+      }
+    >
+      Stock: 
+      3
+    </Text>
+  </View>
+  <View
+    accessible={true}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      Object {
+        "borderRadius": 10,
+        "height": 30,
+        "marginLeft": 150,
+        "position": "absolute",
+        "textAlign": "center",
+        "width": 110,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "https://i.postimg.cc/GpkSCktY/icons8-buy-52.png",
+        }
+      }
+      style={
+        Object {
+          "height": 35,
+          "marginLeft": 50,
+          "marginTop": 15,
+          "width": 35,
+        }
+      }
+      testID="addButton"
+    />
+  </View>
+</View>
+`;
