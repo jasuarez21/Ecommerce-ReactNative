@@ -38,7 +38,6 @@
 <img src="https://i.postimg.cc/jnxKC5pg/4view.png"></img>
 <img src="https://i.postimg.cc/VdNm8JB5/5view.png"></img>
 <img src="https://i.postimg.cc/nXjxXNWJ/6view.png"></img>
-<img src="https://i.postimg.cc/VdNm8JB5/5view.png"></img>
 <img src="https://i.postimg.cc/SjkmgTn6/8view.png"></img>
 
 
