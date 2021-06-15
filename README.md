@@ -32,7 +32,7 @@
 - Android Studio  
 
 
-<img src="ttps://i.postimg.cc/xcFYT9t5/firsview.png"></img>
+<a href="https://i.postimg.cc/xcFYT9t5/firsview.png" target="_blank"><img src="ttps://i.postimg.cc/xcFYT9t5/firsview.png"></img></a>
 <img src="https://i.postimg.cc/HjzdRwMf/secondview.png"></img>
 <img src="https://i.postimg.cc/WFPsLSXP/3view.png"></img>
 <img src="https://i.postimg.cc/jnxKC5pg/4view.png"></img>
