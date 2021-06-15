@@ -31,4 +31,20 @@
   <h3>EMULATOR</h3>
 - Android Studio  
 
+<img src="https://i.postimg.cc/WFPsLSXP/3view.png"></img>
+
+[url=https://postimg.cc/WFPsLSXP][img]https://i.postimg.cc/WFPsLSXP/3view.png[/img][/url]
+
+[url=https://postimg.cc/jnxKC5pg][img]https://i.postimg.cc/jnxKC5pg/4view.png[/img][/url]
+
+[url=https://postimg.cc/VdNm8JB5][img]https://i.postimg.cc/VdNm8JB5/5view.png[/img][/url]
+
+[url=https://postimg.cc/nXjxXNWJ][img]https://i.postimg.cc/nXjxXNWJ/6view.png[/img][/url]
+
+[url=https://postimg.cc/SjkmgTn6][img]https://i.postimg.cc/SjkmgTn6/8view.png[/img][/url]
+
+[url=https://postimg.cc/xcFYT9t5][img]https://i.postimg.cc/xcFYT9t5/firsview.png[/img][/url]
+
+[url=https://postimg.cc/HjzdRwMf][img]https://i.postimg.cc/HjzdRwMf/secondview.png[/img][/url]
+
 
