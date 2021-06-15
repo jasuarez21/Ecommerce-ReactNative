@@ -1,5 +1,3 @@
-# Ecommerce-ReactNative
-
 <h1 align="center">FULLSTACK ECOMMERCE OF MOTORCYCLES </h1>
 
 <h3 align="left">Languages and Tools:</h3>
